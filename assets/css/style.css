@@ -134,7 +134,7 @@ p {
     max-width: 150px;
 } */
 
-.content div {
+.content section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -161,7 +161,7 @@ p {
     color: #ffffff;
 } */
 
-.content div img {
+.content section img {
     max-height: 200px;
 }
 
@@ -173,7 +173,7 @@ p {
     max-height: 200px;
 } */
 
-.content div h2 {
+.content section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
